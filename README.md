@@ -9,7 +9,7 @@ Un proyecto colaborativo entre [Exequiel Sabatié](https://github.com/exequiels)
 - [Exequiel Sabatié](https://sabatie.com.ar)
 - [Mariano Luna](https://www.marianorluna.com/)
 
-# 2025/05/27
+## 2025/05/27
 
 - Estamos dando comienzo a lo que va a ser nuestra app, aun no esta terminada.
 
