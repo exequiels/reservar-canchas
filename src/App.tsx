@@ -1,5 +1,6 @@
 function App() {
-  return <>Hola Mundo!</>
+  // Comentario
+  return <>Hola Mundo! Segunda parte</>
 }
 
 export default App
