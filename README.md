@@ -1,6 +1,6 @@
 # Reservar Canchas
 
-Reserva tu cancha de paddle en Argentina.
+Reserva tu cancha de pádel en Argentina.
 
 Un proyecto colaborativo entre [Exequiel Sabatié](https://github.com/exequiels) y [Mariano Luna](https://github.com/marianorluna).
 

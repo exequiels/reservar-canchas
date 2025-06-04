@@ -1,6 +1,6 @@
 ## Licencia
 
-Este proyecto es © 2025 [Exequiel Sabaté](https://github.com/exequiels) & [Mariano Luna](https://github.com/marianorluna).
+Este proyecto es © 2025 [Exequiel Sabatié](https://github.com/exequiels) & [Mariano Luna](https://github.com/marianorluna).
 
 Se concede permiso para uso no comercial, libre de cargos, a cualquier persona que obtenga una copia  
 de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software  
@@ -13,5 +13,5 @@ sin un acuerdo previo por escrito con los autores.
 
 Para solicitar una licencia comercial, contactar a:
 
-- Exequiel Sabaté: exequiel@sabatie.com.ar
+- Exequiel Sabatié: exequiel@sabatie.com.ar
 - Mariano Luna: contact@marianorluna.com
